@@ -19,7 +19,7 @@ int** threeSum(int* nums, int numsSize, int* returnSize,
                int** returnColumnSizes) {
     sort_array(nums, numsSize);
 
-     int capacity = 128;
+    int capacity = 128;
     int** result = malloc(sizeof(int*) * capacity);
     *returnColumnSizes = malloc(sizeof(int) * capacity);
     *returnSize = 0;
