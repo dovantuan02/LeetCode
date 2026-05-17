@@ -14,9 +14,15 @@ bool isValid(char* s) {
 
             char open = stack[--top];
 
-            if (c == ')' && open != '(') return false;
-            if (c == '}' && open != '{') return false;
-            if (c == ']' && open != '[') return false;
+            if (c == ')' && open != '(') {
+                return false;
+            }
+            if (c == '}' && open != '{') {
+                return false;
+            }
+            if (c == ']' && open != '[') {
+                return false;
+            }
         }
     }
 
