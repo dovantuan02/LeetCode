@@ -16,6 +16,7 @@
 | [0014-longest-common-prefix](https://github.com/dovantuan02/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/dovantuan02/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/dovantuan02/LeetCode/tree/main/0016-3sum-closest/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/dovantuan02/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,6 +51,7 @@
 | [0015-3sum](https://github.com/dovantuan02/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/dovantuan02/LeetCode/tree/main/0016-3sum-closest/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dovantuan02/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/dovantuan02/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
